@@ -1,7 +1,7 @@
-<div align="center">
+<div align="left">
 
 <!-- Top System Indicators -->
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE_🔴-003311?style=for-the-badge&logo=radio-tower&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/NETWORK-ENCRYPTED-003311?style=for-the-badge&logo=git&logoColor=white" alt="Network" />
   <img src="https://img.shields.io/badge/CLEARANCE-ROOT_USER-003311?style=for-the-badge&logo=linux&logoColor=white" alt="Clearance" />
@@ -9,7 +9,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/taimoursohail">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=1000&pause=300&color=00FF66&multiline=true&repeat=false&width=850&height=230&lines=root@matrix-node:~%23+./init_profile.sh;------------------------------------------------------------------------;[IDENTITY]......+TAIMOUR+BIN+SOHAIL;[ROLE]..........+SOFTWARE+DEVELOPER;[PRIMARY+STACK].+PERN+STACK+(PostgreSQL%2C+Express.js%2C+React%2C+Node.js);[PLATFORMS].....+WORDPRESS+%26+WOOCOMMERCE+DEVELOPMENT;[CURRENT+STUDY].+PEARSON+BTEC+LEVEL+3+IT+EXTENDED+DIPLOMA;[NEXT+STEP].....+PEARSON+LEVEL+4+%26+LEVEL+5+HND+IN+COMPUTING;[GOAL]..........+ADVANCED+COMPUTER+SCIENCE+%26+GLOBAL+PROGRESSION;------------------------------------------------------------------------" alt="Terminal Initialization" />
   </a>
@@ -19,11 +19,11 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=3500&pause=1000&color=00AA44&center=true&vCenter=true&width=850&height=30&lines=>_INITIALISING_CORE_STACK_MODULES..." alt="Loading Modules" />
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=3500&pause=1000&color=00AA44&left=true&vleft=true&width=850&height=30&lines=>_INITIALISING_CORE_STACK_MODULES..." alt="Loading Modules" />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-002200?style=for-the-badge&logo=postgresql&logoColor=00ff66" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Express.js-002200?style=for-the-badge&logo=express&logoColor=00ff66" alt="Express" />
   <img src="https://img.shields.io/badge/React-002200?style=for-the-badge&logo=react&logoColor=00ff66" alt="React" />
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/WooCommerce-002200?style=for-the-badge&logo=woocommerce&logoColor=00ff66" alt="WooCommerce" />
 </div>
 
-<br/>
+<br/> <br/>
 
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=3500&pause=500&color=00FF66&width=850&height=35&lines=%3E_TECHNICAL_SKILLS_%26_SPECIALISATIONS" alt="Technical Skills Header" />
@@ -89,7 +89,7 @@ root@matrix-node:~# ./fetch_experience_records.sh --source="taimoursohail.com"
 
 ```
 
-<div align="center">
+<div align="left">
 
 <br/><br/>
 
