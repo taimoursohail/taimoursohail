@@ -2,9 +2,9 @@
 
 <!-- Top System Indicators -->
 <div align="left">
-  <img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE_🔴-003311?style=for-the-badge&logo=radio-tower&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/NETWORK-ENCRYPTED-003311?style=for-the-badge&logo=git&logoColor=white" alt="Network" />
-  <img src="https://img.shields.io/badge/CLEARANCE-ROOT_USER-003311?style=for-the-badge&logo=linux&logoColor=white" alt="Clearance" />
+  <img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE_🔴-F3BD12?style=for-the-badge&logo=radio-tower&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/NETWORK-ENCRYPTED-F3BD12?style=for-the-badge&logo=git&logoColor=white" alt="Network" />
+  <img src="https://img.shields.io/badge/CLEARANCE-ROOT_USER-F3BD12?style=for-the-badge&logo=linux&logoColor=white" alt="Clearance" />
 </div>
 
 <br/>
@@ -24,12 +24,12 @@
 </div>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-00AA44?style=for-the-badge&logo=postgresql&logoColor=00AA44" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Express.js-00AA44?style=for-the-badge&logo=express&logoColor=00AA44" alt="Express" />
-  <img src="https://img.shields.io/badge/React-00AA44?style=for-the-badge&logo=react&logoColor=00AA44" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-00AA44?style=for-the-badge&logo=nodedotjs&logoColor=00AA44" alt="Node.js" />
-  <img src="https://img.shields.io/badge/WordPress-00AA44?style=for-the-badge&logo=wordpress&logoColor=00AA44" alt="WordPress" />
-  <img src="https://img.shields.io/badge/WooCommerce-00AA44?style=for-the-badge&logo=woocommerce&logoColor=00AA44" alt="WooCommerce" />
+  <img src="https://img.shields.io/badge/PostgreSQL-F3BD12?style=for-the-badge&logo=postgresql&logoColor=black" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Express.js-F3BD12?style=for-the-badge&logo=express&logoColor=black" alt="Express" />
+  <img src="https://img.shields.io/badge/React-F3BD12?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-F3BD12?style=for-the-badge&logo=nodedotjs&logoColor=black" alt="Node.js" />
+  <img src="https://img.shields.io/badge/WordPress-F3BD12?style=for-the-badge&logo=wordpress&logoColor=black" alt="WordPress" />
+  <img src="https://img.shields.io/badge/WooCommerce-F3BD12?style=for-the-badge&logo=woocommerce&logoColor=black" alt="WooCommerce" />
 </div>
 
 <br/> <br/>
@@ -95,13 +95,13 @@ root@matrix-node:~# ./fetch_experience_records.sh --source="taimoursohail.com"
 
 <!-- Interactive Encrypted Links -->
 <a href="https://taimoursohail.com" target="_blank">
-  <img src="https://img.shields.io/badge/WEBSITE-TAIMOURSOHAIL.COM-00AA44?style=for-the-badge&logo=googlechrome&logoColor=00AA44" alt="Website" />
+  <img src="https://img.shields.io/badge/WEBSITE-TAIMOURSOHAIL.COM-F3BD12?style=for-the-badge&logo=googlechrome&logoColor=00AA44" alt="Website" />
 </a>
 <a href="https://pk.linkedin.com/in/taimoursohail" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-taimoursohail-00AA44?style=for-the-badge&logo=linkedin&logoColor=00AA44" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-taimoursohail-F3BD12?style=for-the-badge&logo=linkedin&logoColor=00AA44" alt="LinkedIn" />
 </a>
 <a href="https://github.com/taimoursohail" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-taimoursohail-00AA44?style=for-the-badge&logo=github&logoColor=00AA44" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GITHUB-taimoursohail-F3BD12?style=for-the-badge&logo=github&logoColor=00AA44" alt="GitHub" />
 </a>
 
 </div>
